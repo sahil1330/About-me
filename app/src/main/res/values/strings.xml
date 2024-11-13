@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Sahil Mane</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+        Hii, My Name is Sahil Mane,
+        \n\n I am more of a Software Developer who can work in any language desired by the client.
+        \n I am Mostly skilled in Javascript but also knows how to code in Java and python.
+        \n The framework that I like in Python is Django to build full stack web applications.
+        \n In Javascript, I work mostly in Service Oriented Architecture where I separate the frontend and backend.
+        \n For frontend, I am skilled in React, and In Backend, I am skilled in Express, Hono and Fastify and if it comes to Monolithic then NextJs.
+        \n I can also work in Java where the frontend will be on React only and backend will be on Spring boot.
+        \n I am familiar with wide range of databases like MySQL, PostgreSQL, Microsoft SQL Server, MongoDB, Firebase, appwriteDB and Redis.
+    </string>
+</resources>
