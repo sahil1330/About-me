@@ -12,4 +12,6 @@
         \n I can also work in Java where the frontend will be on React only and backend will be on Spring boot.
         \n I am familiar with wide range of databases like MySQL, PostgreSQL, Microsoft SQL Server, MongoDB, Firebase, appwriteDB and Redis.
     </string>
+    <string name="what_is_your_name">What is your Nickname?</string>
+    <string name="done_button_text">Done</string>
 </resources>
